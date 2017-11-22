@@ -1,0 +1,38 @@
+{'friends':[{
+      id: 100,
+      location: 'Goa',
+      hobby: 'music',
+      friend:'Jack',
+      sport:'tennis',
+      country:'india'
+      
+    },
+    {
+      id: 101,
+      location: 'delhi',
+      hobby: 'reading books',
+      friend:'Ben',
+      sport:'badminton',
+      country:'london'
+      
+    }
+    
+      ],
+
+
+ 'dad':[{
+        id: 100,
+        name: 'Adam',
+        dad: 'John',
+        mom:'Trisha',
+        gender:'Male',
+        color:'Red'
+        },
+      {
+        id: 101,
+        name: 'Betty',
+        dad: 'George',
+        mom:'Benny',
+        gender:'Male',
+        color:'Blue'
+        }]};
